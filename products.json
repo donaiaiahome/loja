@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "KIT COLCHA KING ROYAL BRANCO 400F 2,90MX2,80M",
+    "room": "SALA DE ESTAR",
+    "stock": 2,
+    "price": 3400.0,
+    "image": "assets/produto-01.jpg"
+  },
+  {
+    "id": 2,
+    "name": "KIT COLCHA SUPER KING AMBER BORDADA BRANCA 3,20MX2,90M",
+    "room": "SALA DE ESTAR",
+    "stock": 1,
+    "price": 4000.0,
+    "image": "assets/produto-02.jpg"
+  },
+  {
+    "id": 3,
+    "name": "CAPA DE ALMOFADA AMBER BORDADA BRANCA 35CM X 60CM",
+    "room": "SALA DE ESTAR",
+    "stock": 4,
+    "price": 250.0,
+    "image": "assets/produto-03.jpg"
+  },
+  {
+    "id": 4,
+    "name": "KIT COLCHA SUPER KING AMBER BOR. FENDI 3,20MX2,90M",
+    "room": "SALA DE ESTAR",
+    "stock": 1,
+    "price": 4000.0,
+    "image": "assets/produto-04.jpg"
+  },
+  {
+    "id": 5,
+    "name": "CAPA DE ALMOFADA AMBER BOR. FENDI 35CM X 60CM",
+    "room": "SALA DE ESTAR",
+    "stock": 4,
+    "price": 250.0,
+    "image": "assets/produto-05.jpg"
+  },
+  {
+    "id": 6,
+    "name": "KIT COLCHA SUPER KING AMBER BOR. PRATA 3,20MX2,90M",
+    "room": "SALA DE ESTAR",
+    "stock": 2,
+    "price": 4000.0,
+    "image": "assets/produto-06.jpg"
+  },
+  {
+    "id": 7,
+    "name": "CAPA DE ALMOFADA AMBER BOR. PRATA 35CMX60CM",
+    "room": "SALA DE ESTAR",
+    "stock": 4,
+    "price": 250.0,
+    "image": "assets/produto-07.jpg"
+  },
+  {
+    "id": 8,
+    "name": "CAPA ALMOFADA JACQUARD FAVO BRANCO 35CMX60CM",
+    "room": "SALA DE ESTAR",
+    "stock": 4,
+    "price": 350.0,
+    "image": "assets/produto-08.jpg"
+  },
+  {
+    "id": 9,
+    "name": "CAPA ALMOFADA JACQUARD FAVO FENDI 35CMX60CM",
+    "room": "SALA DE ESTAR",
+    "stock": 4,
+    "price": 350.0,
+    "image": "assets/produto-09.jpg"
+  },
+  {
+    "id": 10,
+    "name": "CAPA ALMOFADA JACQUARD FAVO PRATA 35CMX60CM",
+    "room": "SALA DE ESTAR",
+    "stock": 4,
+    "price": 350.0,
+    "image": "assets/produto-10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "KIT COLCHA KING JACQUARD FAVO BRANCO 2,90MX2,70M",
+    "room": "SALA DE ESTAR",
+    "stock": 2,
+    "price": 2900.0,
+    "image": "assets/produto-11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "KIT COLCHA KING JACQUARD FAVO FENDI 2,90MX2,70M",
+    "room": "SALA DE ESTAR",
+    "stock": 2,
+    "price": 2900.0,
+    "image": "assets/produto-12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "KIT COLCHA KING JACQUARD FAVO PRATA 2,90MX2,70M",
+    "room": "SALA DE ESTAR",
+    "stock": 2,
+    "price": 2900.0,
+    "image": "assets/produto-13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "KIT COLCHA KING JACQUARD VEU DE SINTRA 2,90MX2,70M",
+    "room": "CLOSET CASAL",
+    "stock": 4,
+    "price": 3000.0,
+    "image": "assets/produto-14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "KIT COLCHA SUPER KING JACQUARD VEU DE SINTRA 3,20X270",
+    "room": "CLOSET CASAL",
+    "stock": 4,
+    "price": 3500.0,
+    "image": "assets/produto-15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "KIT COLCHA SUPER KING ST.GERMAIN BRANCO 300F 3,20MX2,90M",
+    "room": "CLOSET CASAL",
+    "stock": 4,
+    "price": 2000.0,
+    "image": "assets/produto-16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "KIT COLCHA SUPER KING ST.GERMAIN PRATA 3,20MX2,90M",
+    "room": "CLOSET CASAL",
+    "stock": 2,
+    "price": 2000.0,
+    "image": "assets/produto-17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "KIT COLCHA SUPER KING ST.GERMAIN FENDI 3,20MX2,90M",
+    "room": "SALA DE ESTAR",
+    "stock": 4,
+    "price": 2000.0,
+    "image": "assets/produto-18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "JC KING WIDSOR BORDADO BCO/BCO 300F 2,90MX2,50M",
+    "room": "SALA DE ESTAR",
+    "stock": 1,
+    "price": 1450.0,
+    "image": "assets/produto-19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "FRONHA AV WINDSOR BORDADO BCO/BCO 300F 50CMX90CM",
+    "room": "SALA DE ESTAR",
+    "stock": 4,
+    "price": 300.0,
+    "image": "assets/produto-20.jpg"
+  },
+  {
+    "id": 21,
+    "name": "COB.SUPER KING 480GR BRANCO 2,90MX2,40M SOFT PREMIUM",
+    "room": "SALA DE ESTAR",
+    "stock": 20,
+    "price": 600.0,
+    "image": "assets/produto-21.jpg"
+  },
+  {
+    "id": 22,
+    "name": "COB.SUPER KING 480GR PRATA 2,90MX2,40M SOFT PREMIUM",
+    "room": "SALA DE ESTAR",
+    "stock": 6,
+    "price": 600.0,
+    "image": "assets/produto-22.jpg"
+  },
+  {
+    "id": 23,
+    "name": "COB.SUPER KING 600GR BRANCO 2,90MX2,40M SOFT LUXO",
+    "room": "SALA DE ESTAR",
+    "stock": 26,
+    "price": 900.0,
+    "image": "assets/produto-23.jpg"
+  },
+  {
+    "id": 24,
+    "name": "COB.SUPER KING 600GR FENDI 2,90MX2,40M SOFT LUXO",
+    "room": "SALA DE ESTAR",
+    "stock": 12,
+    "price": 900.0,
+    "image": "assets/produto-24.jpg"
+  },
+  {
+    "id": 25,
+    "name": "CAPA DE ALMOFADA WINDSOR BORDADO BCO/BCO 300F 30CMX45CM",
+    "room": "SALA DE ESTAR",
+    "stock": 2,
+    "price": 250.0,
+    "image": "assets/produto-25.jpg"
+  },
+  {
+    "id": 26,
+    "name": "EDREDOM KING SQUARE BRANCO 200F 2,90MX2,50M",
+    "room": "CLOSET CASAL",
+    "stock": 8,
+    "price": 950.0,
+    "image": "assets/produto-26.jpg"
+  },
+  {
+    "id": 27,
+    "name": "KIT SUMMER KING WINDSOR BORDADO BCO/BCO 300F 2,90MX2,50M",
+    "room": "SALA DE ESTAR",
+    "stock": 2,
+    "price": 2300.0,
+    "image": "assets/produto-27.jpg"
+  },
+  {
+    "id": 28,
+    "name": "ROUPAO KIMONO C/ PIPPING FENDI TAM P 0CMX0CM SONHARE",
+    "room": "CLOSET CASAL",
+    "stock": 4,
+    "price": 400.0,
+    "image": "assets/produto-28.jpg"
+  },
+  {
+    "id": 29,
+    "name": "ROUPAO KIMONO C/ PIPPING FENDI TAM M 0CMX0CM SONHARE",
+    "room": "CLOSET CASAL",
+    "stock": 4,
+    "price": 400.0,
+    "image": "assets/produto-29.jpg"
+  },
+  {
+    "id": 30,
+    "name": "ROUPAO KIMONO C/ PIPPING FENDI TAM GG 0CMX0CM SONHARE",
+    "room": "CLOSET CASAL",
+    "stock": 4,
+    "price": 400.0,
+    "image": "assets/produto-30.jpg"
+  }
+]
